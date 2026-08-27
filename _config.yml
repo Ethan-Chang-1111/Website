@@ -8,17 +8,17 @@ baseurl: "/Website"
 # jekyll-theme-architect, jekyll-theme-minimal, jekyll-theme-hacker,
 # jekyll-theme-tactile, jekyll-theme-dinky, jekyll-theme-time-machine,
 # jekyll-theme-modernist, jekyll-theme-midnight, jekyll-theme-leap-day.
-theme: minima
 
 # Nav links shown by the minima theme header.
 minima:
   skin: dark
   social_links:
-    - { platform: github,   user_url: "https://github.com/yourusername" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/yourusername" }
-    - { platform: twitter,  user_url: "https://twitter.com/yourusername" }
+    - { platform: github,   user_url: "https://github.com/Ethan-Chang-1111" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/chang-ethan" }
 
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-redirect-from
