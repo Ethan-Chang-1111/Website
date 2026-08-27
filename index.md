@@ -1,32 +1,21 @@
 ---
 layout: home
-title: Your Name
+title: home
 ---
 
-Hello, I'm **Your Name** — a short line about what you do, e.g. software
-engineer, designer, writer — and what you're currently focused on.
+Hello, I'm Ethan Chang; I'm a software engineer currently finishing up my Masters at UIUC.
 
-Currently: building something new.
-
-Resume:
-Embed with html
-<object data="https://Ethan-Chang-1111.github.io/Ethan_Chang_Resume_2026.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://Ethan-Chang-1111.github.io/Ethan_Chang_Resume_2026.pdf" >
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://Ethan-Chang-1111.github.io/Ethan_Chang_Resume_2026.pdf" datacenter systems software?>Download PDF</a>.</p>
+<object data="https://ethan-chang-1111.github.io/Website/Ethan_Chang_Resume_2026.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://ethan-chang-1111.github.io/Website/Ethan_Chang_Resume_2026.pdf" >
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ethan-chang-1111.github.io/Website/Ethan_Chang_Resume_2026.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
 ## Selected work
 
-- **[Project One](#)** — one line describing what it is and what you built or solved. *2026 · Category*
-- **[Project Two](#)** — one line describing what it is and what you built or solved. *2025 · Category*
-- **[Project Three](#)** — one line describing what it is and what you built or solved. *2025 · Category*
-
-## Personal Life
-
-
-## Testing
-
+- **[Bank Churn](https://github.com/Ethan-Chang-1111/Bank-Churn-Predictive-Modeling)** — one line describing what it is and what you built or solved. *2026 · Category*
+- **[Faux Formicidae](https://github.com/NathanMcGuire30/faux_formicidae)** — one line describing what it is and what you built or solved. *2025 · Category*
+- **[Super Secret Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)** — one line describing what it is and what you built or solved. *2025 · Category*
 
 ---
 What does this look like?
