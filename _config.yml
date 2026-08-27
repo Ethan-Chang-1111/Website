@@ -1,5 +1,5 @@
-title: Your Name
-description: Personal website of Your Name.
+title: Ethan Chang
+description: Rising Software Engineer
 url: "https://Ethan-Chang-1111.github.io"
 baseurl: ""
 
@@ -28,6 +28,7 @@ markdown: kramdown
 header_pages:
   - about.md
   - contact.md
+  - travel.md
 
 exclude:
   - README.md
