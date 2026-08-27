@@ -18,24 +18,3 @@
   aspect-ratio: 8.5 / 11;
   height: auto;
 }
-
-
-/* For Mobile */
-@media (max-width: 600px) {
-  .pdf-wrapper {
-    display: none;
-  }
-}
- 
-.pdf-fallback-link {
-  display: none;
-  text-align: center;
-  margin: 1.5rem 0;
-}
- 
-@media (max-width: 600px) {
-  .pdf-fallback-link {
-    display: block;
-  }
-}
-
