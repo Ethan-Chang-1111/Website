@@ -15,8 +15,8 @@ minima:
   skin: dark
   hide_site_feed_link: true
   social_links:
-    - { title: GitHub, icon: github, user_url: "https://github.com/Ethan-Chang-1111" }
-    - { title: LinkedIn, icon: linkedin, user_url: "https://linkedin.com/in/chang-ethan" }
+    - { title: GitHub, icon: github, url: "https://github.com/Ethan-Chang-1111" }
+    - { title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/chang-ethan" }
 
 plugins:
   - jekyll-remote-theme
