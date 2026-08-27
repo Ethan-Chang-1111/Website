@@ -1,7 +1,7 @@
 title: Ethan Chang
 description: Rising Software Engineer
-url: "https://Ethan-Chang-1111.github.io/Website/"
-baseurl: ""
+url: "https://Ethan-Chang-1111.github.io"
+baseurl: "/Website"
 
 # Built-in GitHub Pages theme — replaces the need for a custom styles.css.
 # Other supported options: jekyll-theme-cayman, jekyll-theme-slate,
