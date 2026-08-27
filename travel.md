@@ -8,4 +8,4 @@ permalink: /travel/
 ## This is a travel page
 
 Photo Embed: 
-![Alt text](Gulfoss_July_22_2024.jpg)
+![Alt text](assets/Gulfoss_July_22_2024.jpg)
