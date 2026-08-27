@@ -17,13 +17,10 @@ Hello, I'm Ethan Chang; I'm a software engineer currently finishing up my Master
 - **[Faux Formicidae](https://github.com/NathanMcGuire30/faux_formicidae)** — one line describing what it is and what you built or solved. *2025 · Category*
 - **[Super Secret Project](https://www.youtube.com/watch?v=dQw4w9WgXcQ)** — one line describing what it is and what you built or solved. *2025 · Category*
 
----
-What does this look like?
+HTML links
 
-**bold**
-*italic*
+<a href="https://github.com/Ethan-Chang-1111/Bank-Churn-Predictive-Modeling" target="_blank" rel="noopener">GitHub</a>
 
-```
-// This is a code block
-print('Hello World')
-```
+<a href="https://github.com/NathanMcGuire30/faux_formicidae" target="_blank" rel="noopener">Faux_formicidae</a>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener">Super Secret Project</a>
