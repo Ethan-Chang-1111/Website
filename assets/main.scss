@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+.site-nav .page-link {
+  margin-left: 20px;
+}
+
+.site-nav .page-link:not(:last-child) {
+  margin-right: 20px;
+}
+
+.pdf-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+.pdf-wrapper embed {
+  width: 100%;
+  max-width: 800px;
+}

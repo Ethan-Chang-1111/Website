@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: Home
 ---
 
 Write two or three sentences about yourself here. Where you're based, what
