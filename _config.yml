@@ -28,8 +28,10 @@ markdown: kramdown
 # Pages to include in the site nav (order controls left-to-right position).
 header_pages:
   - about.md
-  - contact.md
+  - experience.md
+  - resume.md
   - travel.md
+  - contact.md
 
 exclude:
   - README.md
