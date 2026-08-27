@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: home
+title: home
 ---
 
 Write two or three sentences about yourself here. Where you're based, what
