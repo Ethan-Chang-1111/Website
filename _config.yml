@@ -9,13 +9,13 @@ baseurl: "/Website"
 # jekyll-theme-tactile, jekyll-theme-dinky, jekyll-theme-time-machine,
 # jekyll-theme-modernist, jekyll-theme-midnight, jekyll-theme-leap-day.
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@1e8a445
 # Nav links shown by the minima theme header.
 minima:
   skin: dark
   social_links:
-    - { platform: github,   user_url: "https://github.com/Ethan-Chang-1111" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/chang-ethan" }
+    - { title: GitHub, icon: github, user_url: "https://github.com/Ethan-Chang-1111" }
+    - { title: LinkedIn, icon: linkedin, user_url: "https://linkedin.com/in/chang-ethan" }
 
 plugins:
   - jekyll-remote-theme
