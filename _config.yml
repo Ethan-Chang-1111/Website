@@ -12,7 +12,7 @@ baseurl: "/Website"
 remote_theme: jekyll/minima
 # Nav links shown by the minima theme header.
 minima:
-  skin: light
+  skin: dark
   social_links:
     - { platform: github,   user_url: "https://github.com/Ethan-Chang-1111" }
     - { platform: linkedin, user_url: "https://linkedin.com/in/chang-ethan" }
