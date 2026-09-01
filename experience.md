@@ -21,9 +21,9 @@ permalink: /experience/
 ## Selected work
 
 
-<b><a href="https://github.com/Ethan-Chang-1111/Bank-Churn-Predictive-Modeling" target="_blank" rel="noopener">Bank Churn Project — Using multiple machine learning models to determine if a bank could predict if a customer is dissatisfied from account activity. Models were effective and can inform customer retention programs to improved cost and effectiveness </a></b>
+<b><a href="https://github.com/Ethan-Chang-1111/Bank-Churn-Predictive-Modeling" target="_blank" rel="noopener">Bank Churn Project</a></b> — Using multiple machine learning models to determine if a bank could predict if a customer is dissatisfied from account activity. Models were effective and can inform customer retention programs to improved cost and effectiveness.
 
-<b><a href="https://github.com/NathanMcGuire30/faux_formicidae" target="_blank" rel="noopener">Faux Formicidae Project — Built a framework for simulating an ant colony and measure effectiveness of various machine learning models acting as "queens" </a></b>
+<b><a href="https://github.com/NathanMcGuire30/faux_formicidae" target="_blank" rel="noopener">Faux Formicidae Project</a></b> — Built a framework for simulating an ant colony and measure effectiveness of various machine learning models acting as "queens". 
 
 <b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener">Super Secret Project</a></b>
 
