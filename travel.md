@@ -4,9 +4,5 @@ title: Travel
 permalink: /travel/
 ---
 
-
-## This is a travel page
-
-Photo Embed:
-
+A photo of me @ Gulfoss on my trip to Iceland
 <img src="{{ '/assets/Gulfoss_July_22_2024.jpg' | relative_url }}" alt="My photo">

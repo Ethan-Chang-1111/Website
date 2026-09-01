@@ -3,5 +3,5 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<p class="pdf-fallback-link"> <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank" rel="noopener">Open full view</a> </p>
+<p class="pdf-fallback-link"> <a href="{{ '/assets/resume.pdf' | relative_url }}" target="_blank" rel="noopener">Open raw file (pdf)</a> </p>
 <div class="pdf-wrapper"> <embed src="{{ '/assets/resume.pdf' | relative_url }}" type="application/pdf" width="100%" height="1000"> </div> 
