@@ -12,7 +12,7 @@ baseurl: "/Website"
 remote_theme: jekyll/minima@1e8a445
 # Nav links shown by the minima theme header.
 minima:
-  skin: dark
+  skin: solarized-light
   hide_site_feed_link: true
   social_links:
     - { title: GitHub, icon: github, url: "https://github.com/Ethan-Chang-1111" }
