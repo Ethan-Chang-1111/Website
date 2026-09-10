@@ -16,6 +16,7 @@ permalink: /experience/
 ## Academic
 
 **M.S in Computer Science @ UIUC** 
+
 **B.S in Computer Science @ Northeastern University**
 
 ## Selected work
